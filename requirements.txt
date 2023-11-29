@@ -1,0 +1,9 @@
+scikit-image
+timm
+opencv-python
+Pillow
+pandas==2.1.0
+matplotlib-inline==0.1.6
+matplotlib==3.8.0
+jupyter
+pytest
